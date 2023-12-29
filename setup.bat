@@ -1,4 +1,4 @@
-@echo off
+
 color 5
 
 title Checking Python Version
